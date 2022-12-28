@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.search-element {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}

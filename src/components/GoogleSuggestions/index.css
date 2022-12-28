@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image {
+  height: 100px;
+  margin-bottom: 30px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border: 2px solid #bfbfbf;
+  border-radius: 10px;
+  width: 50%;
+  padding: 20px;
+}
+.search-input {
+  color: #64748b;
+  font-size: 18px;
+  font-family: 'Roboto';
+  border-width: 0px;
+}
+.search-icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.search {
+  display: flex;
+}
